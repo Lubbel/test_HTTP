@@ -1,0 +1,5 @@
+URL = "http://localhost:4010"
+userName = "user"
+password = "12345"
+host = "localhost"
+port = "4010"
